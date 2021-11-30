@@ -5,7 +5,7 @@ metadata:
   labels:
     label1: val1
     label2: val2
-kuspec:
+spec:
   containers:
   - name: nginx-container
     image: nginx:1.16
